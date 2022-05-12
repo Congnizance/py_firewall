@@ -11,7 +11,7 @@ Install the following dependencies in python:-
 
 Install iptables in linux.
 
-Download the [firewall.py]() file from the repo and then execute as follows:-
+Download the [firewall.py](firewall.py) file from the repo and then execute as follows:-
 ```
 $ sudo python3 firewall.py
 ```
