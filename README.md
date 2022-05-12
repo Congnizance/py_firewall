@@ -2,7 +2,7 @@
 A firewall built from scratch using iptables and written in python.
 
 # Usage
-The execution details can be found in this readme file: [Firewall_README.pdf]()
+The execution details can be found in this readme file: [Firewall_README.pdf](Firewall_README.pdf)
 
 Install the following dependencies in python:-
 1. os
@@ -11,7 +11,7 @@ Install the following dependencies in python:-
 
 Install iptables in linux.
 
-Then, execute as follows:-
+Download the [firewall.py]() file from the repo and then execute as follows:-
 ```
 $ sudo python3 firewall.py
 ```
