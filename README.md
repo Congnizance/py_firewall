@@ -50,8 +50,6 @@ The overall workflow of iptables can be understood as follows:-
 # Team members
 Rohit Doriya
 
-
 Naikawadi Shivaprasad
-
 
 Priyank Mandal
