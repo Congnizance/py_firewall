@@ -1,6 +1,21 @@
 # py_firewall
 A firewall built from scratch using iptables and written in python.
 
+# Usage
+The execution details can be found in this readme file: [Firewall_README.pdf]()
+
+Install the following dependencies in python:-
+1. os
+2. re
+3. subprocess
+
+Install iptables in linux.
+
+Then, execute as follows:-
+```
+$ sudo python3 firewall.py
+```
+
 # Firewall from scratch
 The aim of this project is to implement a basic firewall to filter the network traffic for the IITJ campus which blocks all the video streaming websites. We used the linux kernel functionality, IPTABLES, for this purpose. IPTABLES, simply monitors & applies a set of rules using tables which contain sets of rules, called chains, that will filter incoming and outgoing data packets in a local network.
 
@@ -30,3 +45,13 @@ $ sudo iptables -x
 ```
 
 The overall workflow of iptables can be understood as follows:-
+![](iptables-Flowchart.jpg)
+
+# Team members
+Rohit Doriya
+
+
+Naikawadi Shivaprasad
+
+
+Priyank Mandal
